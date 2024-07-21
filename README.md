@@ -16,3 +16,4 @@ Hold System and Display - keeps both
 
 It have effect while app is running
 
+![windowsample](https://github.com/user-attachments/assets/7edbdfc9-0601-4d56-a4d6-c2115e11f19f)
